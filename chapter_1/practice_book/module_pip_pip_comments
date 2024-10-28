@@ -1,0 +1,19 @@
+# Built in Modules (Preinstalled in Python)
+# External Modules (Need to install using pip)
+
+
+# use pip to install external modules
+# !pip install pyjokes
+
+
+# REPL
+# Read 
+# Evaluate
+# Print
+# Loop
+
+
+# "#" is for single line comment
+# """ """ is for multi line comment
+
+
