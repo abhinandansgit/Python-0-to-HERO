@@ -5,7 +5,6 @@ import os
 def print_directory_contents(directory_path):
 
 #   Prints the contents of a given directory.
-
 #   Args:
 #     directory_path: The path to the directory.
 # use os module to view the directory contents
